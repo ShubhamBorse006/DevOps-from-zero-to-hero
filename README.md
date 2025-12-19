@@ -2,6 +2,9 @@
 
 Getting Started with Networking: Basics Everyone Should Know
 
+<img width="1032" height="580" alt="image" src="https://github.com/user-attachments/assets/25a93857-509d-4790-8916-ceaf3f6211ed" />
+
+
 Networking is a core skill for every software engineer. This blog explains essential networking concepts like TCP ,UDP, HTTP ,HTTPS, network connections, and network types in a simple and easy-to-understand way.
 
 Hey there, tech enthusiasts! If you’re new to the world of computer networking, you’ve come to the right place. Let’s dive into the basics and get you up to speed.
