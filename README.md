@@ -1,4 +1,4 @@
-# DevOps-from-zero-to-hero
+# DevOps-from-zero-to-hero (Blog-list)
 
 Getting Started with Networking: Basics Everyone Should Know
 
