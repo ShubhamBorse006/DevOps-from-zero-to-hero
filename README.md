@@ -1,6 +1,6 @@
 # DevOps-from-zero-to-hero (Blog-list)
 
-Getting Started with Networking: Basics Everyone Should Know
+**Getting Started with Networking: Basics Everyone Should Know**
 
 <img width="1032" height="580" alt="image" src="https://github.com/user-attachments/assets/25a93857-509d-4790-8916-ceaf3f6211ed" />
 
